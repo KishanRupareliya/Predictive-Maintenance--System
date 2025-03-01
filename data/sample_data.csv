@@ -1,0 +1,4 @@
+timestamp,temperature,pressure,vibration,maintenance_required
+2023-01-01,70,30,0.02,No
+2023-01-02,75,32,0.03,No
+2023-01-03,80,35,0.05,Yes
