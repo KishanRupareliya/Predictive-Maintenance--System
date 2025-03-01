@@ -39,4 +39,4 @@ Predictive Maintenance System is a project that utilizes machine learning techni
 2. Ensure data is being collected and stored properly.
 3. Train the machine learning model using historical sensor data.
 4. Deploy the model to predict failures in real-time.
-5. Monitor system insights and alerts for proactive maintenance.
+5. Monitor system insights and alerts for proactive maintenance..
